@@ -1,0 +1,182 @@
+{
+  "uuid": "bfe729281e626361348b9a1468256c4b",
+  "path": "Offline/Thru-hole",
+  "name": "Thru-hole",
+  "content": "",
+  "created_at": "2021-08-04 13:14:18",
+  "updated_at": "2021-08-04 20:35:34",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "05c7c69f48dac15fdda131c06cc67e68",
+      "title": "Sheet_2",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "b0248eb51e084227889f2cb84eab79c4": 9,
+        "a7a0e276dadd4f8097422d2afc2e1b9c": 1,
+        "24eeb2ceca08480b92b847b6a310acda": 2,
+        "34f9b621f0ab44498782d05627c2d5b1": 1,
+        "b5953d65a4054165b11dfc39ebcbd953": 1,
+        "6d8096724606463fb074e84878095ba9": 1,
+        "25941d0a3007a8365e2032d4278dd8c0": 1,
+        "207283c67b3f48f4b2421c110e860fe9": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "330uf",
+          1,
+          "CAP-TH_BD8.0-P2.50-D1.0-FD",
+          "C1",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "Seeed Tech OLP",
+            "BOM_Manufacturer Part": "",
+            "puuid": "84551071718d4cc9abfb12ed9f701553",
+            "uuid": "a7a0e276dadd4f8097422d2afc2e1b9c"
+          }
+        ],
+        [
+          "0.1u",
+          2,
+          "CAP-TH_L4.0-W2.5-P5.00-1.2",
+          "C4,C5",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "Seeed Tech OLP",
+            "BOM_Manufacturer Part": "GRM155R71C104KA88D",
+            "puuid": "06feeff8a86d463cbbab48bf53a2f777",
+            "uuid": "24eeb2ceca08480b92b847b6a310acda"
+          }
+        ],
+        [
+          "10k",
+          5,
+          "RES-TH_BD1.7-L3.5-P7.50-D0.5",
+          "R1,R4,R5,R12,R13",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "Seeed Tech OLP",
+            "BOM_Manufacturer Part": "",
+            "puuid": "b9ec78209330420a90157d1c3f74bd79",
+            "uuid": "b0248eb51e084227889f2cb84eab79c4"
+          }
+        ],
+        [
+          "9.1M",
+          1,
+          "RES-TH_BD1.7-L3.5-P7.50-D0.5",
+          "R6",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "Seeed Tech OLP",
+            "BOM_Manufacturer Part": "",
+            "puuid": "b9ec78209330420a90157d1c3f74bd79",
+            "uuid": "b0248eb51e084227889f2cb84eab79c4"
+          }
+        ],
+        [
+          "2.2M",
+          1,
+          "RES-TH_BD1.7-L3.5-P7.50-D0.5",
+          "R7",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "Seeed Tech OLP",
+            "BOM_Manufacturer Part": "",
+            "puuid": "b9ec78209330420a90157d1c3f74bd79",
+            "uuid": "b0248eb51e084227889f2cb84eab79c4"
+          }
+        ],
+        [
+          "470",
+          1,
+          "RES-TH_BD1.7-L3.5-P7.50-D0.5",
+          "R8",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "Seeed Tech OLP",
+            "BOM_Manufacturer Part": "",
+            "puuid": "b9ec78209330420a90157d1c3f74bd79",
+            "uuid": "b0248eb51e084227889f2cb84eab79c4"
+          }
+        ],
+        [
+          "4.7k",
+          1,
+          "RES-TH_BD1.7-L3.5-P7.50-D0.5",
+          "R14",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "Seeed Tech OLP",
+            "BOM_Manufacturer Part": "",
+            "puuid": "b9ec78209330420a90157d1c3f74bd79",
+            "uuid": "b0248eb51e084227889f2cb84eab79c4"
+          }
+        ],
+        [
+          "MCP1702-3302E/TO",
+          1,
+          "TO-92-3_L4.9-W3.7-P1.27-L",
+          "U4",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C220654",
+            "BOM_Manufacturer": "Microchip Tech",
+            "BOM_Manufacturer Part": "MCP1702-3302E/TO",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "6924b36489de4921bb29ca14bf27c33f",
+            "uuid": "6d8096724606463fb074e84878095ba9"
+          }
+        ]
+      ],
+      "updateTime": 1628121128,
+      "createTime": 1628104498,
+      "histories": [],
+      "created_at": "2021-08-04 13:14:58",
+      "updated_at": "2021-08-04 17:52:08"
+    },
+    {
+      "uuid": "d3655c9a8ff43b130ff3cb10c1dcd0e1",
+      "puuid": "bfe729281e626361348b9a1468256c4b",
+      "title": "PCB_Thru-hole_2",
+      "filename": "PCB_Thru-hole_2.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "21bb26c585544e17a64bb2b57131b3de": 1,
+        "55a66c0e717a45018c9562abc21c3671": 1,
+        "84551071718d4cc9abfb12ed9f701553": 1,
+        "06feeff8a86d463cbbab48bf53a2f777": 2,
+        "d8e3f43788f44e1b8a5c51c1c2d17da8": 1,
+        "b9ec78209330420a90157d1c3f74bd79": 9,
+        "6924b36489de4921bb29ca14bf27c33f": 2
+      },
+      "BOM": [],
+      "updateTime": 1628130934,
+      "createTime": 1628117406,
+      "histories": [],
+      "created_at": "2021-08-04 16:50:06",
+      "updated_at": "2021-08-04 20:35:34"
+    }
+  ],
+  "sort": [
+    "69c8e69c5f63ee915ce4723bbfa7ef8f",
+    "05c7c69f48dac15fdda131c06cc67e68"
+  ],
+  "title": "Thru-hole",
+  "foldername": "Thru-hole",
+  "schfilename": "Thru-hole.json",
+  "schfilemtime": 1628121128999
+}
